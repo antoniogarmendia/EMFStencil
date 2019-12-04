@@ -6,7 +6,7 @@ Starting from this definition, EMF-Stencil produces a Sirius graphical or tabula
 
 ### __Gallery of Graphical DSLs__
 
-To show the capabilities of this tool to build visual languages of different kinds, we create a repository with different examples of editors.
+To show the capabilities of this tool in building visual languages of different kinds, we create a repository with a set of examples of graphical editors.
 
 [Repository of graphical DSLs](https://github.com/antoniogarmendia/gallery-graphical-dsls-emfStencil)
 
