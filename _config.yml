@@ -7,5 +7,5 @@ theme: jekyll-theme-minimal
 github:
   repository_url: https://github.com/antoniogarmendia/emfsplitter
   zip_url: https://github.com/antoniogarmendia/emfsplitter/zipball/master
-  tar_url: https://github.com/antoniogarmendia/emfsplitter/zipball/master
+  tar_url: https://github.com/antoniogarmendia/emfsplitter/tarball/master
 
