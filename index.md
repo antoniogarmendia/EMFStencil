@@ -21,3 +21,6 @@ policies to organize the diagrams of the DSL in different kinds of files and fol
 
 ### Support or Contact
 EMF-Stencil is maintained by [antoniogarmendia](https://github.com/antoniogarmendia). Send comments or questions to [antonio.garmendia@uam.es](antonio.garmendia@uam.es)
+
+### Contributors
+EMF-Stencil is built by the [miso group](http://www.miso.es) and contributed by: [antoniogarmendia](https://github.com/antoniogarmendia), [jdelara](https://github.com/jdelara), [jdelara](https://github.com/jdelara),[estherguerra](https://github.com/estherguerra) 
