@@ -6,6 +6,10 @@ Starting from this definition, EMF-Stencil produces a Sirius graphical or tabula
 
 This tool is integrated with [DSL-tao](http://jdelara.github.io/DSL-tao/index.html), but can also be used stand-alone.
 
+### __Installation__
+
+__Update site__: [https://antoniogarmendia.github.io/emfsplitter/](https://antoniogarmendia.github.io/emfsplitter/) 
+
 ### __Gallery of Graphical DSLs__
 
 To show the capabilities of this tool in building visual languages of different kinds, we create a repository with a set of examples of graphical editors.
