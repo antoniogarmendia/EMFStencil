@@ -1,6 +1,4 @@
-##__EMF-Stencil__ 
-
-is an Eclipse plug-in that facilitates the creation of scalable editing environments for graphical DSLs. 
+__EMF-Stencil__ : is an Eclipse plug-in that facilitates the creation of scalable editing environments for graphical DSLs. 
 
 EMF-Stencil isolate developers from complex technical and implementation details. Given the meta-model with the abstract syntax of a DSL, the tool uses different customizable heuristics to assign graphical representations and styles to the DSL elements, which can be subsequently refined through wizards. 
 
