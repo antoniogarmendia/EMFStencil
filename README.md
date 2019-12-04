@@ -4,7 +4,7 @@ EMF-Stencil isolate developers from complex technical and implementation details
 
 Starting from this definition, EMF-Stencil produces a Sirius graphical or tabular editor for the DSL.
 
-### __Gallery of graphical DSLs
+### __Gallery of Graphical DSLs__
 
 To show the capabilities of this tool to build visual languages of different kinds, we create a repository with different examples of editors.
 
