@@ -6,7 +6,7 @@ Starting from this definition, EMF-Stencil produces a Sirius graphical or tabula
 
 ### __EMF-Stencil and EMF-Splitter__
 
-The tool integrates (EMF-Splitter)[https://antoniogarmendia.github.io/EMFSplitterSite/], which allows defining fragmentation
+The tool integrates [EMF-Splitter](https://antoniogarmendia.github.io/EMFSplitterSite/), which allows defining fragmentation
 policies to organize the diagrams of the DSL in different kinds of files and folders. This results in scalable environments where diagrams can be modularly defined by smaller fragments.
 
 ### Support or Contact
