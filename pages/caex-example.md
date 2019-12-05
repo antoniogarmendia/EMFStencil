@@ -21,7 +21,9 @@ In order to create an environment for the CAEX, we base on the Github repository
 
     __First page of the wizard to assign a concrete syntax__: offers several heuristics that the DSL designer can select to produce a default representation.
     ![First page of the wizard to assign a concrete syntax](../assets/img/concrete-syntax-emf-stencil.png)
-
+    __Second page of the wizard to assign a concrete syntax__: to customize the mapping between the elements as node-like and edge-like. Besides, allows the customization of the palette.
+    ![Second page of the wizard to assign a concrete syntax](../assets/img/concrete-syntax-emf-stencil-2.png)
+    concrete-syntax-emf-stencil-2
 
 3. The third step consist in generate the Eclipse plug-ins using the information of the attached patterns.
 
