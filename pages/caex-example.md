@@ -27,8 +27,13 @@ In order to create an environment for the CAEX, we base on the Github repository
     ![Third page of the wizard to assign a concrete syntax](../assets/img/concrete-syntax-emf-stencil-3.png)
     Clicking on the _Finish_ button to apply the concrete syntax to the CAEX meta-model.
 
-3. The third step consist in generate the Eclipse plug-ins using the information of the attached patterns.
+3. The third step consist in generate the Eclipse plug-ins using the information of the attached patterns. Generate the code by choosing DSL-tao->Execute All patterns. In this case, it is executed the code generation of all patterns attached to the meta-models. In case you want to generate separately, it can be done as follows:
 
+    __Fragmentation Pattern__: DSL-tao->Modularity->Execute Modularity
+    __Concrete Syntax__: DSL-tao->Graph-based representation->Execute Graph-based representation
+    
+    Code generate by EMF-Stencil and EMF-Splitter
+    ![Code generate by EMF-Stencil and EMF-Splitter](../assets/img/code-generated.png)
 
 ### Stand-alone
 
