@@ -46,8 +46,8 @@ Open a Hierarchy Model Unit in the graphical editor.
  2. Insert the name of the diagram and, click OK.
 ![Sirius Model Editor](../assets/img/open-model-sirius.png)
 
-__Result Environment__
-![Graphical Scalable Environment](../assets/img/result-enviroment.png)
+    __Graphical Scalable Environment__
+    ![Graphical Scalable Environment](../assets/img/result-enviroment.png)
 
 ### Stand-alone
 
