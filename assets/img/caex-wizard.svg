@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="178.81566"
-     inkscape:cy="471.2952"
+     inkscape:zoom="0.7"
+     inkscape:cx="348.34189"
+     inkscape:cy="337.65347"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3511,6 +3511,8 @@ RK5CYII=
        height="238.125"
        width="423.33334"
        clip-path="url(#clipPath828)"
-       transform="translate(182.31422,88.446429)" />
+       transform="translate(182.31422,88.446429)"
+       inkscape:export-xdpi="81.279999"
+       inkscape:export-ydpi="81.279999" />
   </g>
 </svg>

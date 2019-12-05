@@ -35,14 +35,19 @@ In order to create an environment for the CAEX, we base on the Github repository
     Code generate by EMF-Stencil and EMF-Splitter
     ![Code generate by EMF-Stencil and EMF-Splitter](../assets/img/code-generated.png)
 
-Finally, you can create another Eclipse instance to start working with the generated scalable environment.
+4. Finally, you can create another Eclipse instance to start working with the generated scalable environment.
 
 To create the project, package and unit types is by choosing File->New->Other and the CAEX folder contains all the types that you can create. In this sense, you first start with the CAEX project and start adding the rest of the elements.
 
 ![Create CAEX objects](../assets/img/caex-wizard.png)
 
+Open a Hierarchy Model Unit in the graphical editor. 
+ 1. Right-click on the model -> Open with -> Hrchy Sirius Model Editor
+ 2. Insert the name of the diagram and, click OK.
+![Sirius Model Editor](../assets/img/open-model-sirius.png)
 
-
+__Result Environment__
+![Result Environment](../assets/img/result-enviroment.png)
 
 ### Stand-alone
 
