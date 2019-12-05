@@ -47,7 +47,7 @@ Open a Hierarchy Model Unit in the graphical editor.
 ![Sirius Model Editor](../assets/img/open-model-sirius.png)
 
 __Result Environment__
-![Result Environment](../assets/img/result-enviroment.png)
+![Graphical Scalable Environment](../assets/img/result-enviroment.png)
 
 ### Stand-alone
 
