@@ -19,7 +19,7 @@ In order to create an environment for the CAEX, we base on the Github repository
 
 2. The next step required to create a graphical environment is to assign a concrete syntax. To do this, we are going to use the EMF-Stencil dedicated wizard. Using the "Patterns View" provided by DSL-tao, double click on "Graph-based representation" (label 1).
 
-    __First page of the wizard to assign a concrete syntax__: heuristics
+    __First page of the wizard to assign a concrete syntax__: offers several heuristics that the DSL designer can select to produce a default representation.
     ![First page of the wizard to assign a concrete syntax](../assets/img/concrete-syntax-emf-stencil.png)
 
 
