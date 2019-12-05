@@ -15,7 +15,16 @@ __Second page of the wizard__: to define the _Project_ class
 __Third page of the wizard__: permits the definition of objects of type _Package_ and _Unit_ 
 ![Third page of the wizard](../assets/img/emf-splitter-third-page.png)
 
-Clicking on the _Finish_ button the patterns 
+Clicking on the _Finish_ button to apply the fragmentation pattern.
+
+2. The next step required to create a graphical environment is to assign a concrete syntax. To do this, we are going to use the EMF-Stencil dedicated wizard. Using the "Patterns View" provided by DSL-tao, double click on "Graph-based representation" (label 1).
+
+__First page of the wizard to assign a concrete syntax__: heuristics
+![First page of the wizard to assign a concrete syntax](../assets/img/fragmentation-pattern-dsl-tao.png)
+
+
+3. The third step consist in generate the Eclipse plug-ins using the information of the attached patterns.
+
 
 ### Stand-alone
 
