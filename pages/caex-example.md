@@ -4,23 +4,23 @@ In order to create an environment for the CAEX, we base on the Github repository
 
 1. The first step to create the scalable environment is the application of the fragmentation strategy. The following image shows how to do it using the DSL-tao plug-in through the "Patterns View", double clicking on "Modularity" (label 1).
 
-We use the dedicated wizard to apply the fragmentation strategy shown in the following image:
+    We use the dedicated wizard to apply the fragmentation strategy shown in the following image:
 
-![Excerpt of the CAEX meta-model annotated with the fragmentation strategy](../assets/img/fragmentation_pattern_AML.png)
+    ![Excerpt of the CAEX meta-model annotated with the fragmentation strategy](../assets/img/fragmentation_pattern_AML.png)
 
-__First page of the wizard__ 
-![First page of the wizard](../assets/img/fragmentation-pattern-dsl-tao.png)
-__Second page of the wizard__: to define the _Project_ class 
-![Second page of the wizard](../assets/img/emf-splitter-second-page.png)
-__Third page of the wizard__: permits the definition of objects of type _Package_ and _Unit_ 
-![Third page of the wizard](../assets/img/emf-splitter-third-page.png)
+    __First page of the wizard__ 
+    ![First page of the wizard](../assets/img/fragmentation-pattern-dsl-tao.png)
+    __Second page of the wizard__: to define the _Project_ class 
+    ![Second page of the wizard](../assets/img/emf-splitter-second-page.png)
+    __Third page of the wizard__: permits the definition of objects of type _Package_ and _Unit_ 
+    ![Third page of the wizard](../assets/img/emf-splitter-third-page.png)
 
-Clicking on the _Finish_ button to apply the fragmentation pattern.
+    Clicking on the _Finish_ button to apply the fragmentation pattern.
 
 2. The next step required to create a graphical environment is to assign a concrete syntax. To do this, we are going to use the EMF-Stencil dedicated wizard. Using the "Patterns View" provided by DSL-tao, double click on "Graph-based representation" (label 1).
 
-__First page of the wizard to assign a concrete syntax__: heuristics
-![First page of the wizard to assign a concrete syntax](../assets/img/concrete-syntax-emf-stencil.png)
+    __First page of the wizard to assign a concrete syntax__: heuristics
+    ![First page of the wizard to assign a concrete syntax](../assets/img/concrete-syntax-emf-stencil.png)
 
 
 3. The third step consist in generate the Eclipse plug-ins using the information of the attached patterns.
