@@ -11,7 +11,7 @@ This tool is integrated with [DSL-tao](http://jdelara.github.io/DSL-tao/index.ht
 EMF-Stencil is an Eclipse plug-in. Install it by choosing Help → Install New Software…. You will need to add the following software site:
 __Eclipse update site__: [https://antoniogarmendia.github.io/emfsplitter/](https://antoniogarmendia.github.io/emfsplitter/) 
 
-![Select __EMF-Stencil and EMF-Splitter__ and install](../assets/img/eclipse-update-site-emf-stencil.png)
+![Select __EMF-Stencil and EMF-Splitter__ and install](/assets/img/eclipse-update-site-emf-stencil.png)
 
 ### __Gallery of Graphical DSLs__
 
