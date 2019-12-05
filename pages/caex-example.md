@@ -2,7 +2,11 @@
 
 In order to create an environment for the CAEX, we base on the Github repository [https://github.com/amlModeling/](https://github.com/amlModeling/). We import all the projects in an Eclipse workspace. The first step to create the scalable environment is the application of the fragmentation strategy. The following image shows how to do it using the DSL-tao plug-in through the "Patterns View", double clicking on "Modularity" (label 1).
 
-![Apply the fragmentation pattern to the CAEX meta-model ](../assets/img/fragmentation-pattern-dsl-tao.png)
+![First page of the wizard](../assets/img/fragmentation-pattern-dsl-tao.png)
+
+![Second page of the wizard](../assets/img/emf-splitter-second-page.png)
+
+![Third page of the wizard](../assets/img/emf-splitter-third-page.png)
 
 ### Stand-alone
 
