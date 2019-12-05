@@ -1,6 +1,12 @@
 ### Develop an environment for CAEX using EMF-Splitter and EMF-Stencil
 
-In order to create an environment for the CAEX, we base on the Github repository [https://github.com/amlModeling/](https://github.com/amlModeling/). We import all the projects in an Eclipse workspace. The first step to create the scalable environment is the application of the fragmentation strategy. The following image shows how to do it using the DSL-tao plug-in through the "Patterns View", double clicking on "Modularity" (label 1).
+In order to create an environment for the CAEX, we base on the Github repository [https://github.com/amlModeling/](https://github.com/amlModeling/). We import all the projects in an Eclipse workspace. 
+
+1. The first step to create the scalable environment is the application of the fragmentation strategy. The following image shows how to do it using the DSL-tao plug-in through the "Patterns View", double clicking on "Modularity" (label 1).
+
+We use the dedicated wizard to apply the fragmentation strategy shown in the following image:
+
+![Excerpt of the CAEX meta-model annotated with the fragmentation strategy](../assets/img/fragmentation_pattern_AML.png)
 
 __First page of the wizard__ 
 ![First page of the wizard](../assets/img/fragmentation-pattern-dsl-tao.png)
@@ -8,6 +14,8 @@ __Second page of the wizard__: to define the _Project_ class
 ![Second page of the wizard](../assets/img/emf-splitter-second-page.png)
 __Third page of the wizard__: permits the definition of objects of type _Package_ and _Unit_ 
 ![Third page of the wizard](../assets/img/emf-splitter-third-page.png)
+
+Clicking on the _Finish_ button the patterns 
 
 ### Stand-alone
 
@@ -19,4 +27,4 @@ __Define Pattern__ the menu to attach the patterns and the graphical style to th
 
 __Create Plugin__ to generate the Eclipse plug-in from the attached patterns 
 
-![Excerpt of the CAEX meta-model annotated with the fragmentation strategy](../assets/img/fragmentation_pattern_AML.png)
+
