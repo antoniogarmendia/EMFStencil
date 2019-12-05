@@ -11,6 +11,7 @@ In this example, we use DSL-tao as a front-end. In case you do not want to use D
 ![EMF-Stencil and EMF-Splitter menu](../assets/img/emf-stencil-splitter-stand-alone.png)
 
 __Define Pattern__ the menu to attach the patterns and the graphical style to the meta-model
+
 __Create Plugin__ to generate the Eclipse plug-in from the attached patterns 
 
 ![Excerpt of the CAEX meta-model annotated with the fragmentation strategy](../assets/img/fragmentation_pattern_AML.png)
