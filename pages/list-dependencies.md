@@ -10,7 +10,13 @@
     <td>2</td><td>ATL</td><td>4.2.0</td>
   </tr>
   <tr>
+    <td>2</td><td>Acceleo</td><td>3.7.10</td>
+  </tr>
+  <tr>
     <td>2</td><td>Sirius</td><td>6.3.0</td>
+  </tr>
+  <tr>
+    <td>2</td><td>GMF</td><td>1.12.2</td>
   </tr>
   <tr>
     <td>2</td><td>DSL-tao</td><td>0.3.16</td><td><a href="http://jdelara.github.io/DSL-tao/update-site/">http://jdelara.github.io/DSL-tao/update-site/</a></td>
