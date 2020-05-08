@@ -12,4 +12,7 @@
   <tr>
     <td>2</td><td>Sirius</td><td>6.3.0</td>
   </tr>
+  <tr>
+    <td>2</td><td>DSL-tao</td><td>0.3.16</td><td><a href="http://jdelara.github.io/DSL-tao/update-site/">http://jdelara.github.io/DSL-tao/update-site/</a></td>
+  </tr>
 </table>
