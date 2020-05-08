@@ -1,6 +1,12 @@
 ### Required Dependencies
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+<table>
+  <tr>
+    <th>ID</th><th>Component</th><th>Version</th><th>Update Site</th>
+  </tr>
+  <tr>
+    <td>1</td><td>Eclipse 2020-03</td><td>4.15.0</td><td>http://download.eclipse.org/releases/2020-03</td>
+  </tr>
+  <tr>
+    <td>2</td><td>ATL</td><td>4.2.0</td>
+  </tr>
+</table>
