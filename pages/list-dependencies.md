@@ -15,4 +15,7 @@
   <tr>
     <td>2</td><td>DSL-tao</td><td>0.3.16</td><td><a href="http://jdelara.github.io/DSL-tao/update-site/">http://jdelara.github.io/DSL-tao/update-site/</a></td>
   </tr>
+  <tr>
+    <td>2</td><td>Epsilon&Model Monitoring</td><td>1.5.1</td><td><a href="https://download.eclipse.org/epsilon/updates/">https://download.eclipse.org/epsilon/updates/</a></td>
+  </tr>
 </table>
