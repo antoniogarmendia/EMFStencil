@@ -10,21 +10,21 @@
     <td>2</td><td>ATL</td><td>4.2.0</td>
   </tr>
   <tr>
-    <td>2</td><td>Acceleo</td><td>3.7.10</td>
+    <td>3</td><td>Acceleo</td><td>3.7.10</td>
   </tr>
   <tr>
-    <td>2</td><td>Sirius</td><td>6.3.0</td>
+    <td>4</td><td>Sirius</td><td>6.3.0</td>
   </tr>
   <tr>
-    <td>2</td><td>GMF</td><td>1.12.2</td>
+    <td>5</td><td>GMF</td><td>1.12.2</td>
   </tr>
   <tr>
-    <td>2</td><td>DSL-tao</td><td>0.3.16</td><td><a href="http://jdelara.github.io/DSL-tao/update-site/">http://jdelara.github.io/DSL-tao/update-site/</a></td>
+    <td>6</td><td>DSL-tao</td><td>0.3.16</td><td><a href="http://jdelara.github.io/DSL-tao/update-site/">http://jdelara.github.io/DSL-tao/update-site/</a></td>
   </tr>
   <tr>
-    <td>2</td><td>Epsilon&Model Monitoring</td><td>1.5.1</td><td><a href="https://download.eclipse.org/epsilon/updates/">https://download.eclipse.org/epsilon/updates/</a></td>
+    <td>7</td><td>Epsilon&Model Monitoring</td><td>1.5.1</td><td><a href="https://download.eclipse.org/epsilon/updates/">https://download.eclipse.org/epsilon/updates/</a></td>
   </tr>
   <tr>
-    <td>2</td><td>Edapt</td><td>1.4.1</td><td><a href="http://download.eclipse.org/edapt/releases/14x">http://download.eclipse.org/edapt/releases/14x</a></td>
+    <td>8</td><td>Edapt</td><td>1.4.1</td><td><a href="http://download.eclipse.org/edapt/releases/14x">http://download.eclipse.org/edapt/releases/14x</a></td>
   </tr>
 </table>
