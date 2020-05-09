@@ -24,4 +24,7 @@
   <tr>
     <td>2</td><td>Epsilon&Model Monitoring</td><td>1.5.1</td><td><a href="https://download.eclipse.org/epsilon/updates/">https://download.eclipse.org/epsilon/updates/</a></td>
   </tr>
+  <tr>
+    <td>2</td><td>Edapt</td><td>1.4.1</td><td><a href="http://download.eclipse.org/edapt/releases/14x">http://download.eclipse.org/edapt/releases/14x</a></td>
+  </tr>
 </table>
