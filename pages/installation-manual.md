@@ -1,4 +1,4 @@
-### Installation Manual
+### Manual of Installation of EMF-Stencil
 
 __1. Download Eclipse__: [https://www.eclipse.org/downloads/packages/](https://www.eclipse.org/downloads/packages/) 
 
