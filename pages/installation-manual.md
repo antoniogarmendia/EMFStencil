@@ -4,6 +4,8 @@ __1. Download Eclipse__: [https://www.eclipse.org/downloads/packages/](https://w
 
 ![Select __Package__Modeling Tools](../assets/img/eclipse-modeling-tools.png)
 
+In this Eclipse, Install the following plug-ins by choosing Help → Install New Software….
+
 __2. Install Acceleo, ATL, Sirius__:
 __Update site__: [http://download.eclipse.org/releases/2020-03](http://download.eclipse.org/releases/2020-03) 
 
