@@ -8,7 +8,7 @@ This tool is integrated with [DSL-tao](http://jdelara.github.io/DSL-tao/index.ht
 
 ### __Installation__
 
-[Manual of Installation of EMF-Stencil](./pages/installation-manual.html)
+[Installation Manual of EMF-Stencil](./pages/installation-manual.html)
 
 [Check the list of Dependencies](./pages/list-dependencies.html)
 
