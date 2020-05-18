@@ -8,6 +8,8 @@ This tool is integrated with [DSL-tao](http://jdelara.github.io/DSL-tao/index.ht
 
 ### __Installation__
 
+[Installation Manual](./pages/installation-manual.html)
+
 [Check the list of Dependencies](./pages/list-dependencies.html)
 
 EMF-Stencil is an Eclipse plug-in. Install it by choosing Help → Install New Software….
