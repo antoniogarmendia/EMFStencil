@@ -18,5 +18,9 @@ __Update site__: [https://download.eclipse.org/epsilon/updates/](https://downloa
 __4. Install DSL-tao__:
 __Update site__: [http://jdelara.github.io/DSL-tao/update-site/](http://jdelara.github.io/DSL-tao/update-site/) 
 
+![Select DSL-tao](../assets/img/dsl-tao.png)
+
 Finally, Install EMFStencil
 __Update site__: [https://antoniogarmendia.github.io/emfsplitter/](https://antoniogarmendia.github.io/emfsplitter/) 
+
+![Select EMF-Splitter__EMF-Stencil](../assets/img/emf-stencil.png)
