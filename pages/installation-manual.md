@@ -13,6 +13,7 @@ __Update site__: [http://download.eclipse.org/releases/2020-03](http://download.
 
 __3. Install Epsilon__:
 __Update site__: [https://download.eclipse.org/epsilon/updates/](https://download.eclipse.org/epsilon/updates/) 
+![Select Epsilon Core__Development Tools__EMF Integration__Concordance__Human Notation](../assets/img/atl-acceleo-sirius.png)
 
 __4. Install DSL-tao__:
 __Update site__: [http://jdelara.github.io/DSL-tao/update-site/](http://jdelara.github.io/DSL-tao/update-site/) 
