@@ -10,7 +10,7 @@ To show the capabilities of this tool in building visual languages of different 
 
 [Repository of graphical DSLs](https://github.com/antoniogarmendia/gallery-graphical-dsls-emfStencil)
 
-[This video shows how to import and use the CRALA environment](https://youtu.be/rFLJQfhcVyA)
+[This video shows how to import and use the generated CRALA environment](https://youtu.be/rFLJQfhcVyA)
 
 ### __EMF-Stencil and EMF-Splitter__
 
