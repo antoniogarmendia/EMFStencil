@@ -10,10 +10,14 @@ To show the capabilities of this tool in building visual languages of different 
 
 [Repository of graphical DSLs](https://github.com/antoniogarmendia/gallery-graphical-dsls-emfStencil)
 
+[This video shows how to import and use the CRALA environment](https://youtu.be/rFLJQfhcVyA)
+
 ### __EMF-Stencil and EMF-Splitter__
 
 The tool integrates [EMF-Splitter](https://antoniogarmendia.github.io/EMFSplitterSite/), which allows defining fragmentation
 policies to organize the diagrams of the DSL in different kinds of files and folders. This results in scalable environments where diagrams can be modularly defined by smaller fragments.
+
+[Video Tutorial](https://www.youtube.com/watch?v=tJL7Xfmz3vE)
 
 ### Support or Contact
 EMF-Stencil is maintained by [antoniogarmendia](https://github.com/antoniogarmendia). Send comments or questions to [antonio.garmendia@uam.es](antonio.garmendia@uam.es)
