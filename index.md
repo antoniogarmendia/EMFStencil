@@ -26,6 +26,8 @@ To show the capabilities of this tool in building visual languages of different 
 
 [This video shows how to import and use the generated CRALA environment](https://youtu.be/rFLJQfhcVyA)
 
+Note: EMF-Stencil must be installed in order to test these generated graphical editors.
+
 ### __EMF-Stencil and EMF-Splitter__
 
 The tool integrates [EMF-Splitter](https://antoniogarmendia.github.io/EMFSplitterSite/), which allows defining fragmentation
